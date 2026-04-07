@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="prefijoNuevo">
+    <file>MillSection_2.png</file>
+    <file>cameraoffline.jpg</file>
+  </qresource>
+</RCC>

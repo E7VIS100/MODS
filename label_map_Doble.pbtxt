@@ -1,0 +1,8 @@
+item { 
+	name:'NORMAL_OP'
+	id:1
+}
+item { 
+	name:'ANOMALY_DETECTION'
+	id:2
+}
